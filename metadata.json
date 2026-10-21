@@ -1,0 +1,7 @@
+{
+  "name": "Automated Timetable Generator",
+  "description": "Smart, constraint-based timetable generation for colleges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
